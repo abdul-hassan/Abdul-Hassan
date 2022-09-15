@@ -16,7 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulhassan_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulhassan_cse" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulhassan-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulhassan-it" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdabdulhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdabdulhassan" height="30" width="40" /></a>
 <a href="https://fb.com/abdulhassan.rased" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulhassan.rased" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abdulhassan_cse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulhassan_cse1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
